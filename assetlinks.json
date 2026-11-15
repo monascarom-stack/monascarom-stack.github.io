@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.monascarom_stack.twa",
+    "sha256_cert_fingerprints": ["CA:13:E0:79:63:BB:5D:80:92:8B:25:BF:1F:74:69:7C:B1:23:DA:48:E7:D9:90:C8:21:A1:C5:92:36:6F:3A:F9"]
+  }
+}]
